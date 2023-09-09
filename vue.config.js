@@ -6,7 +6,7 @@ module.exports = defineConfig({
   pwa: {
     themeColor: "#127B6E",
     msTileColor: "#127B6E",
-    name: "YouDo",
+    name: "NelsonMarques",
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: 'white',
     workboxPluginMode: "InjectManifest",
