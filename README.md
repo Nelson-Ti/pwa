@@ -1,5 +1,5 @@
 # Projeto PWA
-## Tecnologias utilizadas: vue, vuetify, typescript.
+## Tecnologias utilizadas: vue, vuetify e typescript.
 # Para deploy: netlify. https://projetopwa.netlify.app/#/
 
 ## Project setup
